@@ -14,7 +14,7 @@ if ($con) {
 	echo 'berhasil koneksi';
 }
 	else{
-		echo 'gagal koneksi';
+		echo 'nadia gagal koneksi';
 	}
 
 
